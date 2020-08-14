@@ -1,0 +1,95 @@
+body{
+    background-color: black;
+    color:#ffffff;
+    font-family: 'Raleway', sans-serif;
+    margin:0;   
+}
+h1{
+    font-weight: 500;
+    font-size: 3.125rem;
+    margin:0;
+}
+header img{
+    width:100%
+}
+.descripcion{
+    font-weight: 300;
+    font-size: 1rem;
+}
+.herosection{
+    text-align: center;   
+}
+.desc-section-text, .desc-section-img {
+    display: inline-block;
+    vertical-align: middle;
+}
+.desc-section{
+    padding:2.8rem 11.71vw 4.125rem;
+    background-color: #000000;
+}
+.desc-section-text{
+    width: 48.469%;;
+}
+.desc-section-img{
+    width:40%;
+    margin: 0 0 0 10.816%;
+}
+h2{
+    text-align: center;
+    padding:0;
+    margin:0;
+    font-size: 4vw;
+    font-weight: 500;
+}
+.icons-section{
+    text-align: left;
+    padding: 4.68rem 18.99vw 4.68rem 23.51vw;
+}
+.caracteristica{
+    display: inline-block;
+    text-align: center;
+    margin:3.125rem 0 0 0;
+}
+h3{
+    font-weight: 300;
+    font-size: 1.6vw;
+}
+#pacifica{
+    margin:0 0 0 13vw;
+}
+#color{
+    margin:0 0 0 11vw;
+}
+i{
+    font-size: 4vw;
+}
+.galeria{
+    display: inline-block;
+    width: 24vw;
+    height:12.625rem ;
+    margin: 0 0 0 0.5rem;
+}
+figure{
+    padding:4.56rem 11vw;
+    text-align: left;
+    margin:0;   
+}
+#gal1{
+    margin:0;
+}
+footer{
+    text-align: center;
+    margin:0;
+    padding: 2rem 0 1rem 0;
+    font-size: 1.5rem;
+    font-weight: 300;
+    vertical-align: middle;
+}
+p{
+    margin:0;
+}
+.cafe{
+    background-color: #1E1A13;
+}
+
+
